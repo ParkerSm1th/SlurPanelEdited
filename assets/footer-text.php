@@ -1,1 +1,1 @@
-<p class="text-md-center text-sm-center"><small>&copy; SlurRadio &middot; A really quickly built website by <a href="//samuelsagarino.me">Samuel Sagarino</a></small></p>
+<p class="text-md-center text-sm-center"><small>&copy; <?php echo date("Y"); ?> SlurRadio &middot; A custom website built by <a href="//samuelsagarino.me">Samuel Sagarino</a><br>I created the <b>SlurRadio</b> panel free of charge, so if you can - buy my next cup of coffee: <a href="https://paypal.me/SamuelSagarino">PayPal.me/SamuelSagarino</a></small></p>

@@ -40,6 +40,7 @@
                             </a>
                             <div class='dropdown-menu' aria-labelledby='navbarDropdownMenuLink'>
                                 <a class='dropdown-item' href='/portal/head-dj/bookings'>Manage Slots</a>
+                                <a class='dropdown-item' href='/portal/head-dj/requests'>Manage Requests</a>
                                 <a class='dropdown-item disabled' href='#'>Issue A Warning</a>
                                 <a class='dropdown-item disabled' href='#'>Allow Connection Information</a>
                                 <a class='dropdown-item disabled' href='#'>Song Logs</a>

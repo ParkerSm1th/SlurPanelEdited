@@ -32,13 +32,13 @@
                                             <br>
                                         - <strike>Ability to book slots.</strike>
                                             <br>
-                                        - Book only 5 slots a week.
+                                        - <strike>Book only 5 slots a week.</strike>
                                             <br>
-                                        - Book only slots in your region.
+                                        - <strike>Book only slots in your region.</strike>
                                             <br>
-                                        - Request to book slots outside of your region.
+                                        - <strike>Request to book slots outside of your region.</strike>
                                             <br>
-                                        - Request to book more than 5 slots a week.
+                                        - <strike>Request to book more than 5 slots a week.</strike>
                                             <br>
                                         - View my warnings.
 
@@ -89,6 +89,7 @@
                                     </p>
                                 </div>
                             </div>
+                            <?php include("../assets/footer-text.php"); ?>
                         </div>
                     </div>
                 </div>

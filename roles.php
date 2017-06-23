@@ -3,25 +3,14 @@
     $data=mysqli_query($conn, $sql);
     $roleData=mysqli_fetch_assoc($data);
 
-
     if($roleData['role']=="1"){
         $roleName="Radio DJ";
         $roleColor="#54A4FF";
     }
-
-    if($roleData['role']=="1.5"){
-        $roleName="Guest DJ";
-        $roleColor="#54A4FF";
-    }
-
+    
     if($roleData['role']=="2"){
         $roleName="Head DJ";
         $roleColor="#DD89F5";
-    }
-
-    if($roleData['role']=="2.5"){
-        $roleName="Developer";
-        $roleColor="#FA5050";
     }
 
     if($roleData['role']=="3"){

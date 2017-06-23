@@ -1,0 +1,5 @@
+[23-Jun-2017 02:07:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$fetchRequests' (T_VARIABLE) in /home/slurradio/staff.slur-radio.net/portal/head-dj/requests/index.php on line 39
+[23-Jun-2017 02:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/slurradio/staff.slur-radio.net/portal/head-dj/requests/index.php on line 59
+[23-Jun-2017 02:12:33 America/Chicago] PHP Parse error:  syntax error, unexpected '"User reached booking limit."' (T_CONSTANT_ENCAPSED_STRING) in /home/slurradio/staff.slur-radio.net/portal/head-dj/requests/index.php on line 64
+[23-Jun-2017 02:12:41 America/Chicago] PHP Parse error:  syntax error, unexpected '"User reached booking limit."' (T_CONSTANT_ENCAPSED_STRING) in /home/slurradio/staff.slur-radio.net/portal/head-dj/requests/index.php on line 64
+[23-Jun-2017 02:12:44 America/Chicago] PHP Parse error:  syntax error, unexpected '"User reached booking limit."' (T_CONSTANT_ENCAPSED_STRING) in /home/slurradio/staff.slur-radio.net/portal/head-dj/requests/index.php on line 64
