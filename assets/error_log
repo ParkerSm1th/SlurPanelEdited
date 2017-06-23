@@ -1,0 +1,102 @@
+[21-Jun-2017 15:10:03 America/Chicago] PHP Warning:  include(/assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 15:10:03 America/Chicago] PHP Warning:  include(): Failed opening '/assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 15:10:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:10:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:10:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:10:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:11:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:11:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:13:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:13:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:13:41 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:13:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:13:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:13:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:14:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:14:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:14:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:14:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:16:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 7
+[21-Jun-2017 15:16:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 8
+[21-Jun-2017 15:16:55 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 7
+[21-Jun-2017 15:16:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 8
+[21-Jun-2017 15:19:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:19:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:19:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:19:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:20:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:20:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:20:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:20:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:20:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:20:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:20:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:20:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:21:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:21:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:21:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:21:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 15:22:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 15:22:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 18:35:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 18:35:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 18:35:27 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 18:35:27 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 18:35:27 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 18:35:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 18:35:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:07:51 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:07:51 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:07:51 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:07:51 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:07:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:08:12 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:12 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:12 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:08:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:08:28 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:28 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:28 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:08:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:08:30 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:30 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:30 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:08:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:08:32 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:32 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:32 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:08:32 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:08:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:31:37 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:31:37 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:31:37 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:31:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:31:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:34:48 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:34:48 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:34:48 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:34:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:34:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:43:09 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:09 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:09 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:43:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:43:21 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:21 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:21 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:43:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:43:30 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:30 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:30 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:43:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6
+[21-Jun-2017 19:43:33 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:33 America/Chicago] PHP Warning:  include(../../../../assets/conn.php): failed to open stream: No such file or directory in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:33 America/Chicago] PHP Warning:  include(): Failed opening '../../../../assets/conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 2
+[21-Jun-2017 19:43:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 5
+[21-Jun-2017 19:43:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slurradio/staff.slur-radio.net/assets/roles.php on line 6

@@ -1,0 +1,23 @@
+<?php
+    if($day=="1"){
+        $dayText="Sunday";
+    }
+    if($day=="2"){
+        $dayText="Monday";
+    }
+    if($day=="3"){
+        $dayText="Tuesday";
+    }
+    if($day=="4"){
+        $dayText="Wednesday";
+    }
+    if($day=="5"){
+        $dayText="Thursday";
+    }
+    if($day=="6"){
+        $dayText="Friday";
+    }
+    if($day=="7"){
+        $dayText="Saturday";
+    }
+?>

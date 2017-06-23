@@ -1,0 +1,1 @@
+<p class="text-md-center text-sm-center"><small>&copy; SlurRadio &middot; A really quickly built website by <a href="//samuelsagarino.me">Samuel Sagarino</a></small></p>

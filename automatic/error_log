@@ -1,0 +1,4 @@
+[21-Jun-2017 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/slurradio/staff.slur-radio.net/automatic/timetable-reset.php on line 183
+[21-Jun-2017 22:17:23 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/slurradio/staff.slur-radio.net/automatic/timetable-reset.php on line 184
+[21-Jun-2017 22:17:34 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home/slurradio/staff.slur-radio.net/automatic/timetable-reset.php on line 184
+[21-Jun-2017 22:19:29 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home/slurradio/staff.slur-radio.net/automatic/timetable-reset.php on line 184
